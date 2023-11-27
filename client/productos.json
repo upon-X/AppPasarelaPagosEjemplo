@@ -1,0 +1,20 @@
+[
+    {
+        "imagen": "https://res.cloudinary.com/dzhiauyws/image/upload/v1701117982/AppPasarelaDePagosSencilla/yl0u2qsmikhhn6vwbsuj.png",
+        "nombre": "Sandia",
+        "precio": 100,
+        "cantidad": 1
+    },
+    {
+        "imagen": "https://res.cloudinary.com/dzhiauyws/image/upload/v1701117981/AppPasarelaDePagosSencilla/kcjfbvhuv1xxz0flij4h.png",
+        "nombre": "Naranja",
+        "precio": 100,
+        "cantidad": 1
+    },
+    {
+        "imagen": "https://res.cloudinary.com/dzhiauyws/image/upload/v1701117884/AppPasarelaDePagosSencilla/cntklm6kbi8d0vmvc5mb.webp",
+        "nombre": "Manzana",
+        "precio": 100,
+        "cantidad": 1
+    }
+]
