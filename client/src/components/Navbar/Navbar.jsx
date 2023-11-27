@@ -13,7 +13,7 @@ export default function Navbar() {
     return (
         <div className={styles.navbar}>
             <h3>Verduleria Pepe</h3>
-            <nav ref={navRef} className={styles.navlink_container}>
+            {/* <nav ref={navRef} className={styles.navlink_container}>
                 <NavLink className={styles.navlink} to='/home'>Inicio</NavLink>
                 <NavLink className={styles.navlink} to='/aboutus'>Nosotros</NavLink>
                 <NavLink className={styles.navlink} to='/services'>Servicios</NavLink>
@@ -23,7 +23,7 @@ export default function Navbar() {
             </nav>
             <button className={styles.nav_btn} onClick={showNavbar}>
                 <FaBars />
-            </button>
+            </button> */}
         </div>
     )
 }
