@@ -5,7 +5,7 @@ import axios from 'axios'
 
 export default function Productos() {
     const handleBuy = async (producto) => {
-        const response = await axios.post("http://localhost:4000/Mercado_Pago", producto)
+        const response = await axios.post("https://app-pasarela-pagos-ejemplo-back.vercel.app/", producto)
         window.location.href = response.data
     }
     // const tarjetaDePrueba = {
